@@ -11,10 +11,8 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/pan52yu&right_color=red" />
 
 ![huyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=pan52yu&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pan52yu&layout=compact&theme=tokyonight)
 
 
-[![huyu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pan52yu&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/pan52yu/github-readme-activity-graph)
 
 
 <!--
