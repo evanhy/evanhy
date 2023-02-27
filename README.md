@@ -1,6 +1,7 @@
-### Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DDCCF&background=FF52BC00&width=610&lines=Come+on！！！+Try+to+be+a+better+version+of+yourself." alt="Typing SVG" /></a>
+
 + 我是一名前端开发工程师
-+ 我的个人博文为 www.huyu001.top
++ 我的个人博客为 www.huyu001.top
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
